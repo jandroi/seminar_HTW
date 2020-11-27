@@ -8,7 +8,16 @@ Although it is not completely organized, we are going to try to keep it clean an
 Keep studying!
 
 
-> Contributions:
+
+
+
+
+
+
+
+
+
+### Contributions:
 
 ```
 Also - you feel free to modify and pull request this repository with any useful information you might feel appropiate!
