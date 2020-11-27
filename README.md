@@ -21,5 +21,4 @@ Keep studying!
 
 ```
 Also - you feel free to modify and pull request this repository with any useful information you might feel appropiate!
-
 ```
