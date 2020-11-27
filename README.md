@@ -20,5 +20,6 @@ Keep studying!
 ### Contributions:
 
 ```
-Also - you feel free to modify and pull request this repository with any useful information you might feel appropiate!
+Also - feel free to modify and pull request this repository with 
+any useful information you might think appropiate!
 ```
