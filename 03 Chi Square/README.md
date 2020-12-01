@@ -1,4 +1,4 @@
-# Userful Resources
+# Useful Resources
 
 J David Eisenberg
 > https://www.youtube.com/watch?v=VskmMgXmkMQ
