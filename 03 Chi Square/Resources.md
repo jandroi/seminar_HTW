@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=zOvUQWOzTlc
 
 Crash Course
 https://www.youtube.com/watch?v=7_cs1YlZoug
+
+Degrees of freedom
+https://www.youtube.com/watch?v=N20rl2llHno
